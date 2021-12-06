@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <div align=center>
 
@@ -106,103 +106,19 @@
 > 좋은 행사 놓쳐서 후회하면 무엇하리.. 자주 확인하여 참석합시다 :)
 
 - 2020년 행사: [08월](./2020/20_08.md), [09월](./2020/20_09.md), [10월](./2020/20_10.md), [11월](./2020/20_11.md), [12월](./2020/20_12.md)
-- 2021년 행사: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md), [11월](./2021/21_11.md)
+- 2021년 행사: [01월](./2021/21_01.md), [02월](./2021/21_02.md), [03월](./2021/21_03.md), [04월](./2021/21_04.md), [05월](./2021/21_05.md), [06월](./2021/21_06.md), [07월](./2021/21_07.md), [08월](./2021/21_08.md), [09월](./2021/21_09.md), [10월](./2021/21_10.md), [11월](./2021/21_11.md), [12월](./2021/21_12.md)
 - 행사 다시보기: [20년](./vod/2020_vod.md), [21년](./vod/2021_vod.md)
 - 참여 후기: [바로가기](./review/review.md)
 
 <br />
 
-## 21년 11월
-- __[대한민국 마이데이터 정책 컨퍼런스](https://docs.google.com/forms/d/e/1FAIpQLSeir5oWx66H6ycWmE5XIjIvNRD5SgzDeKNYda0WyEV8TBsfng/viewform?usp=sf_link)__
-  - 분류: `마이데이터`
-  - 주최: 4차산업혁명위원회
-  - 일시: 11. 25(목) 14:00 ~ 17:00
-  
-- __[2021 차로위반영상데이터 활용 AI 해커톤](https://tvaihackathon.com/)__
-  - 분류: `해커톤`
-  - 주최: 과학기술정보통신부
-  - 모집: 10. 27(수) ~ 11. 25(목)
-- __[Heart Disease AI Datathon 2021](http://hdaidatathon.com/)__
-  - 분류: `해커톤`
-  - 주최: 과학기술정보통신부
-  - 모집: 10. 27(수) ~ 11. 25(목)
-- __[IT-CON with 디프만](https://festa.io/events/1929)__
-  - 분류: `유료`, `웨비나`
-  - 주최: 디프만
-  - 일시: 11. 25(목) 20:00 ~ 22:00
-- __[2021 공유저작물 및 오픈소스 SW컨퍼런스](https://gongucon.cafe24.com/2021/)__
-  - 분류: `유료`, `웨비나`
-  - 주최: 문화체육관광부
-  - 일시: 11. 25(목) 13:00 ~ 18:00
-- __[마이크로소프트와 함께 하는 온라인 잡 페어](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__SNom4ZUMUFER05HUEdNNU1CVVhGWEZYQzgwTUI0Uy4u)__
-  - 분류: `온라인`, `커리어`
-  - 주최: 마이크로소프트
-  - 일시: 11. 26(금) 14:00 ~ 17:20
-- __[2021년(제2회) NH투자증권 빅데이터 경진대회](https://dacon.io/competitions/official/235798/overview/description)__
-  - 분류: `경진대회`, `데이터`
-  - 주최: NH 투자증권
-  - 일시: 08. 30(월) ~ 11. 26(금)
-- __[Naver Deview 2021](https://deview.kr/2021)__
-  - 분류: `컨퍼런스`, `온라인`
-  - 주최: 네이버
-  - 일시: 11. 24(수) ~ 11. 26(금)
-- __[Svelte 기초 및 실습 (4주차)](https://www.codelabs.kr/codelabs/148)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 27(토) 10:00 ~ 17:00
-- __[GDG Busan Devfest 2021 중소IT 기업의 개발/조직문화 Level Up!](https://festa.io/events/75b909e5-801c-49be-a318-833ccef3a907)__
-  - 분류: `모임`
-  - 주최: GDG Busan
-  - 일시: 11. 27(토) 14:00 ~ 16:00
-- __[Kotlin을 이용한 안드로이드 앱의 기초 구조 (4주차)](https://www.codelabs.kr/codelabs/146)__
-  - 분류: `교육`
-  - 주최: 양재동코드랩
-  - 일시: 11. 28(일) 10:00 ~ 17:00
-- __[성공적인 창업 준비를 위해 스타트업이 알아야 할 AWS의 모든 것](https://www.megazone.com/application_form_startup_webinar-apply-211129_30)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: 메가존클라우드
-  - 일시: 11. 29(월) 14:00 ~ 11:30(화) 16:00
-- __[마켓컬리 개발자 Meet Up](https://docs.google.com/forms/d/e/1FAIpQLScjdSn26RJ8nQSxPy3rSy6dL_gwz0z4gJK26tUD2Kb0_Set3w/viewform)__
-  - 분류: `웨비나`
-  - 주최: 마켓컬리
-  - 일시: 11. 30(화) 19:00 ~ 20:00
-- __[2021년 Softeer 모의 알고리즘 코딩 대회](https://softeer.ai/certification/detail.do?idx=1327)__
-  - 분류: `대회`, `알고리즘`
-  - 주최: 현대지엔비
-  - 접수: 11. 17(수) ~ 11. 30(화)
-- __[2021 공개 SW 페스티벌](https://festival.oss.kr/information.php)__
-  - 분류: `오픈소스`, `온라인`
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 30(화) 14:00 ~ 17:30
-
-<br />
-
 ## 21년 12월
-- __[AWS re:Invent 2021 기조연설 온라인 함께 보기](https://www.meetup.com/ko-KR/awskrug/events/282047396/)__
-  - 분류: `웨비나`, `클라우드`
-  - 주최: AWS
-  - 일시: 12. 01(수) 13:00 ~ 15:00
 
-- __[2021 미소 인공지능 모델 개발 챌린지](https://misochallenge.com/)__
-  - 분류: `챌린지`, `인공지능`
-  - 주최: 과학기술정보통신부
-  - 일시: 11. 08(월) ~ 12. 03(금)
-- __[제4회 IT 인프라 유저그룹 밋업 by 주니어들](https://festa.io/events/1957)__
-  - 분류: `모임`, `인프라`
-  - 주최: IT 인프라 엔지니어 그룹
-  - 일시: 12. 04(토) 19:00 ~ 21:00
-- __[2021 드림플러스 블록체인 해커톤](https://www.dreamplus.asia/programs/hackathon?utm_source=comm)__
-  - 분류: `해커톤`, `블록체인`
-  - 주최: 드림플러스
-  - 일시: 12. 17(금) ~ 12. 19(일) 14:00
-- __[AWS re:Invent](https://reinvent.awsevents.com/)__
-  - 분류: `클라우드`
-  - 주최: AWS
-  - 일시: 11. 29(월) ~ 12. 03(금)
 - __[SPECTRUM CON 2021 : REFRAMING](https://events.eoeoeo.net/events/18)__
   - 분류: `컨퍼런스`
   - 주최: EO
   - 일시: 12. 04(토) ~ 12. 05(일)
+
 - __[2021 자율주행 인공지능 알고리즘 개발 챌린지](https://adai2021.com/)__
   - 분류: `챌린지`, `AI`
   - 주최: 국토교통부
@@ -211,22 +127,78 @@
   - 분류: `챌린지`, `AI`
   - 주최: 국토교통부
   - 일시: 10. 22(금) 12:00 ~ 12. 06(월) 13:00
+- __[2021 AI 데이터 해커톤 대회](https://okky.kr/article/1110458)__
+  - 분류: `해커톤`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 11. 29(월) ~ 12. 07(화)
+- __[보컬 데이터를 활용한 AI 아이디어 해커톤](https://etedu.co.kr/shop/item.php?it_id=1637814919)__
+  - 분류: `해커톤`, `AI`
+  - 주최: 메타빌드
+  - 접수: 11. 25(목) ~ 12. 08(수)
+- __[AI/ML 기반 데이터 사이언스 정복하기](https://go.oracle.com/LP=119365?elqCampaignId=326403)__
+  - 분류: `웨비나`, `데이터사이언스`
+  - 주최: 오라클
+  - 일시: 12. 08(수) 17:00
 - __[LG CNS DevOn MSA Suite](https://www.devonmsa.com/)__
   - 분류: `웨비나`, `MSA`
   - 주최: LG CNS
   - 일시: 12. 08(수) 14:00 ~ 15:20
+- __[2022 동계 삼성SDS 알고리즘 특강](https://docs.google.com/forms/d/e/1FAIpQLSc1SiSqZn2rz-75PAx5S_gRmLo_3RGu__oWFFqZHGK38xhA5Q/viewform)__
+  - 분류: `교육`, `알고리즘`
+  - 주최: 삼성SDS
+  - 접수: 12. 01(수) ~ 12. 08(수)
+- __[Apple Developer Academy @ POSTECH 설명회](https://developeracademy.postech.ac.kr/)__
+  - 분류: `교육`
+  - 주최: Apple Developer Academy
+  - 일시: 12. 08(수) 19:00 ~ 20:30
+- __[오픈 인프라 커뮤니티 2021](https://openinfradays.kr/)__
+  - 분류: `커뮤니티`
+  - 주최: OpenInfra Community Days Korea
+  - 일시: 12. 07(화) ~ 12. 09(목)
 - __[웹사이트 개발/운영을 위한 엔진엑스(NGINX) 설치와 환경설정](http://www.digitaltoday.co.kr/bbs/view.html?idxno=78&sc_category=)__
   - 분류: `웨비나`, `nginx`
   - 주최: 디지털투데이
   - 일시: 12. 09(목) 14:00 ~ 15:00
+- __[React Conf 2021](https://conf.reactjs.org/)__
+  - 분류: `웨비나`, `react`, `온라인`
+  - 주최: Facebook
+  - 일시: 12. 09(목) 03:00 ~ 05:00
+- __[Agile Korea Conference 2021](https://festa.io/events/1950)__
+  - 분류: `컨퍼런스`, `애자일`
+  - 주최: 애자일 코리아 컨퍼런스
+  - 일시: 12. 09(목) 10:00 ~ 18:00
+- __[(2차) 엘리스 AI 트랙 4기 모집 설명회](https://docs.google.com/forms/d/e/1FAIpQLScq7B6ZcVT2GS2num7MTEBjlejdfWTkPj8RsgnFQOnnnJBYLA/viewform)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 엘리스
+  - 일시: 12. 09(수) 19:00 ~ 20:30
+- __[Reveal 2021](https://event.coupangcorp.com/)__
+  - 분류: `컨퍼런스`, `온라인`
+  - 주최: 쿠팡
+  - 일시: 12. 09(목) 10:30 ~ 17:00
+- __[2021 LARINX CANCER AI DATATHON](http://lcaidatathon.com/)__
+  - 분류: `해커톤`
+  - 주최: 과학기술정보통신부
+  - 접수: 11. 29(월) ~ 12. 09(목)
 - __[2021 한국인 전신 형상 & 치수 측정 데이터 활용 AI 해커톤](http://kbdhackathon.com/)__
   - 분류: `해커톤`, `AI`
   - 주최: 과학기술정보통신부
   - 일시: 11. 18(목) 12:00 ~ 12. 10(금) 12:00
+- __[컴공선배 알고리즘 캠프 2기](https://softsquared.notion.site/2-b286db42eb9a421abcfd761e16315419)__
+  - 분류: `유료`, `교육`, `알고리즘`
+  - 주최: 컴공선배
+  - 일시: 12. 02(목) ~ 12. 10(금) 15:00
+- __[SAP S/4HANA, 무엇이든 물어보세요](https://www.ksug.kr/event/event_regist.php)__
+  - 분류: `웨비나`, `SAP`
+  - 주최: KSUG
+  - 일시: 12. 10(금) 14:00 ~ 15:00
 - __[기술 개발 리더에게 커리어의 길을 묻다](https://class101.net/101path-tech)__
   - 분류: `웨비나`, `커리어`
   - 주최: 클래스101
   - 일시: 12. 11(토) 17:00 ~ 21:00
+- __[오늘부터 개발자 : Talk #57](https://www.wanted.co.kr/events/Talk57)__
+  - 분류: `웨비나`, `커리어`
+  - 주최: 원티드
+  - 일시: 12. 14(화)
 - __[NAVER Cloud SUMMIT](https://www.ncloud-online.com/navercloudsummit2021/)__
   - 분류: `웨비나`, `클라우드`
   - 주최: 네이버 클라우드 플랫폼
@@ -235,22 +207,54 @@
   - 분류: `웨비나`
   - 주최: 카페24
   - 일시: 12. 16(목) 14:00 ~ 15:30
-- __[2021 adiOS December](https://festa.io/events/1962)__
-  - 분류: `온라인`, `유료`, `iOS`
-  - 주최: adiOS
-  - 일시: 12. 18(토) 15:00 ~ 17:30
+- __[미지 데이터셋을 활용한 서비스 아이디어 해커톤](http://www.k-kinship.com/)__
+  - 분류: `웨비나`, `AI`
+  - 주최: 과학기술정보통신부
+  - 접수: 11. 29(월) ~ 12. 17(금)
+- __[스타트업을 위한 클라우드 101](https://www.megazone.com/application_form_startup_webinar-apply-211217/)__
+  - 분류: `웨비나`, `클라우드`
+  - 주최: 메가존클라우드
+  - 일시: 12. 17(금) 14:00 ~ 16:00
 - __[Tech Talks 2021](https://developer.apple.com/tech-talks/)__
   - 분류: `온라인`, `라이브`
   - 주최: Apple
   - 일시: 10. 25(월) ~ 12. 17(금)
+- __[소리 인공지능 학습용 데이터 기반 서비스 경진대회](https://sounddata.modoo.at/)__
+  - 분류: `해커톤`, `AI`
+  - 주최: Apple
+  - 접수: 11. 29(월) ~ 12. 17(금)
+- __[2021 adiOS December](https://festa.io/events/1962)__
+  - 분류: `온라인`, `유료`, `iOS`
+  - 주최: adiOS
+  - 일시: 12. 18(토) 15:00 ~ 17:30
 - __[Central MakeUs Challenge Demo Day](https://festa.io/events/1972)__
   - 분류: `온라인`, `동아리`
   - 주최: MakeUs Challenge
   - 일시: 12. 18(토)
+- __[당근 SERVER 밋업 1회](https://festa.io/events/1985)__
+  - 분류: `온라인`, `서버`, `모임`
+  - 주최: 당근마켓
+  - 일시: 12. 20(월) 19:00 ~ 22:00
 - __[SEOULTECH - KSCE AI for Science 부트캠프](https://www.gpuhackathons.org/event/seoultech-ksce-ai-science-gpu-bootcamp)__
   - 분류: `온라인`, `부트캠프`
   - 주최: NVDIA
   - 일시: 12. 20(월) ~ 12. 21(화)
+- __[AWSKRUG 구로디지털 #gudi 소모임](https://www.meetup.com/ko-KR/awskrug/events/282395657/)__
+  - 분류: `온라인`, `클라우드`
+  - 주최: AWSKRUG
+  - 일시: 12. 21(화)
+- __[DND 6기 모집](https://dnd.ac/)__
+  - 분류: `동아리`
+  - 주최: DND
+  - 일시: 12. 01(수) ~ 12. 22(수)
+- __[영우클라우드와 함께하는 동양미래대학교 AWS DeepRacer League](https://festa.io/events/1974)__
+  - 분류: `대회`, `클라우드`
+  - 주최: 영우클라우드
+  - 일시: 12. 06(월) ~ 12. 28(화)
+- __[NCP Microservice 구축 및 활용 교육](https://www.ncloud.com/support/edu/429)__
+  - 분류: `온라인`, `세미나`, `클라우드`
+  - 주최: Naver Cloud Platform
+  - 일시: 12. 28(화) 14:00 ~ 18:00
 - __[2021 위믹스 해커톤](https://event.wemixnetwork.com/2021hackathon)__
   - 분류: `해커톤`, `블록체인`
   - 주최: 위믹스
@@ -270,7 +274,7 @@
 | 한이음 |대학생 멘티와 지도교수, 기업전문가 ICT멘토가 팀을 이루어 실무 프로젝트를 수행 |[www.hanium.or.kr](https://www.hanium.or.kr/portal/hanium/businessOverview.do) |  
 | 넥스터즈 | 개발자와 디자이너 연합 동아리 | [teamnexters.com](http://teamnexters.com/) |
 | YAPP | 대학생 연합 기업형 IT 동아리 | [yapp.co.kr](http://yapp.co.kr/) |
-| Mash-Up | 성장의 즐거움을 아는 친구들 | [mash-up.it](https://mash-up.it/), [facebook](https://www.facebook.com/mashupgroup/) |
+| Mash-Up | 성장의 즐거움을 아는 친구들 | [mash-up.it](https://www.mash-up.kr/), [facebook](https://www.facebook.com/mashupgroup/) |
 | AUSG | AWS 대학생 그룹 | [Notion](https://www.notion.so/ausg/AUSG-AWS-f587ae7e146f4c37a313170e1ba603e7/) |
 | D&D | 서울거주 현직자들의 기술공유와 프로젝트를 진행하는 비영리단체 | [dnd.ac](https://dnd.ac/) |
 | SOPT | 대학생 연합 IT벤처 창업 동아리 | [sopt.org](http://sopt.org/wp/), [facebook](https://www.facebook.com/clubsopt) |
@@ -326,7 +330,9 @@
 | GDG Korea WebTech | [facebook](https://www.facebook.com/groups/webTechKR/) |
 | KSUG - 한국 스프링 사용자 모임 | [facebook](https://www.ksug.org/) |
 | devocean | [devocean.sk.com](https://devocean.sk.com/)
-| 닷넷데브 | [forum.dotnetdev.kr](https://forum.dotnetdev.kr/) |
+| OpenStack Korea 커뮤니티 | [facebook](https://www.facebook.com/groups/openstack.kr) |
+| Ceph 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/620899444961207) |
+| Open Compute Project 한국 커뮤니티 | [facebook](https://www.facebook.com/groups/ocpkorea/) |
 
 <br />
 
@@ -404,6 +410,7 @@
     <td align="center"><a href="https://github.com/zettalyst"><img src="https://avatars.githubusercontent.com/u/71296846?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zetta (hogyun.yu)</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=zettalyst" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/chengxxi"><img src="https://avatars.githubusercontent.com/u/71359467?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Seunghee Han</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=chengxxi" title="Code">💻</a></td>
     <td align="center"><a href="http://ohsuz.dev"><img src="https://avatars.githubusercontent.com/u/59340911?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Suzie Oh</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ohsuz" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ydh0213"><img src="https://avatars.githubusercontent.com/u/8025481?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Daehyun Yoon</b></sub></a><br /><a href="https://github.com/brave-people/Dev-Event/commits?author=ydh0213" title="Code">💻</a></td>
   </tr>
 </table>
 
